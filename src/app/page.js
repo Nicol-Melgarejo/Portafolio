@@ -12,7 +12,7 @@ import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
-    <main className="h-[100dvh] overflow-y-scroll md:snap-y md:snap-mandatory">
+    <main className="h-[100dvh] overflow-y-scroll overflow-x-hidden md:snap-y md:snap-mandatory">
       <Navbar />
       <Hero />
       <Projects />
