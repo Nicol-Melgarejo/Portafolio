@@ -92,9 +92,7 @@ export default function Projects() {
   }
 
   return (
-      <section
-  id="projects"
-  className="min-h-[100dvh] md:h-[100dvh] md:snap-startflex flex-col justify-centertext-white relative pt-32 md:pt-40 pb-20">
+     <section id="projects" className="min-h-[100dvh] md:h-[100dvh] md:snap-start flex items-center text-white relative py-20 md:py-28" >
       <div className="max-w-[1240px] mx-auto px-6 w-full">
 
         {/* TÍTULO */}
@@ -122,7 +120,7 @@ export default function Projects() {
               <img
                 src={project.image}
                 alt={project.title}
-                className="w-full h-[160px] md:h-[200px] object-cover transition duration-700 group-hover:scale-105"
+                className="w-full h-[160px] md:h-[200px] object-cover object-top transition duration-700 group-hover:scale-105"
               />
 
               <div className="absolute inset-0 bg-black/20"></div>
