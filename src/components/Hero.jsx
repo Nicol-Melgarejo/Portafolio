@@ -32,7 +32,7 @@ export default function Hero() {
 
       <div className="flex flex-col items-center gap-8 md:gap-10 max-w-5xl w-full">
 
-        <h1 className="text-5xl sm:text-5xl md:text-6xl font-bold leading-[1.2] text-white">
+        <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold leading-[1.2] text-white">
 
           <span>
             {displayText.includes("Desarrolladora") && "Desarrolladora "}
