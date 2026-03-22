@@ -20,7 +20,7 @@ export default function Technologies() {
   <div className="max-w-[1240px] mx-auto px-6 text-center w-full">
 
     {/* TÍTULO */}
-    <h2 className="text-5xl md:text-5xl font-bold mb-10">
+    <h2 className="text-4xl md:text-5xl font-bold mb-10">
       Tecnologías
     </h2>
 
