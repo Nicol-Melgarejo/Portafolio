@@ -12,7 +12,7 @@ export default function ContactCTA() {
       <div className="max-w-[900px] mx-auto px-6 text-center">
 
         {/* TEXTO PRINCIPAL */}
-        <h2 className="text-5xl md:text-6xl font-semibold leading-tight">
+        <h2 className="text-4xl md:text-6xl font-semibold leading-tight">
           ¿Tienes un proyecto en mente?
           <br />
           <span className="bg-gradient-to-r from-pink-500 to-purple-500 bg-clip-text text-transparent">
