@@ -20,7 +20,7 @@ const services = [
 
 export default function About() {
   return (
-    <section id="about" className="h-screen snap-start flex items-center justify-center py-32 text-white relative z-10">
+    <section id="about" className="min-h-[100dvh] md:h-[100dvh] md:snap-start flex items-center justify-center py-32 text-white relative z-10">
       <div className="max-w-[1240px] mx-auto px-6">
 
         {/* TÍTULO */}
