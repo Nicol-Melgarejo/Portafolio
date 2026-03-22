@@ -35,7 +35,7 @@ const projects = [
     description: "Plataforma web escalable.",
     stack: ["WordPress", "ACF"],
     url: "https://postgrado.politecnica.edu.pe/",
-    image: "/Up.png",
+    image: "/up.png",
   },
   {
     title: "Glekom",
