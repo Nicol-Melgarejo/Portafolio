@@ -99,7 +99,7 @@ export default function Projects() {
       <div className="max-w-[1240px] mx-auto px-6 w-full">
 
         {/* TÍTULO */}
-        <div className="mb-12">
+        <div className="mb-12 text-center flex flex-col items-center">
           <h2 className="text-4xl md:text-5xl font-bold">Proyectos</h2>
           <div className="w-14 h-[3px] bg-orange-500 mt-4"></div>
         </div>
