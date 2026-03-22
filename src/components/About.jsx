@@ -24,21 +24,23 @@ export default function About() {
       <div className="max-w-[1240px] mx-auto px-6">
 
         {/* TÍTULO */}
-        <div className="mb-10">
-          <h2 className="text-4xl font-bold animate-fadeUp">Sobre mí</h2>
-          <div className="w-14 h-[3px] bg-orange-500 mt-4"></div>
-        </div>
+       <div className="mb-12 text-center flex flex-col items-center">
+        <h2 className="text-3xl md:text-5xl font-bold animate-fadeUp">
+          Sobre mí
+        </h2>
+        <div className="w-14 h-[3px] bg-orange-500 mt-4 mx-auto"></div>
+      </div>
 
         {/* TEXTO */}
-        <div className="max-w-2xl text-gray-300 leading-relaxed space-y-4 animate-fadeUp delay-1 mb-16">
+        <div className="max-w-2xl mx-auto text-center text-gray-300 leading-relaxed space-y-4 animate-fadeUp delay-1 mb-16">
           <p>
             Soy desarrolladora web especializada en WordPress, participo en todo el proceso del proyecto: desde el levantamiento de requerimientos hasta la implementación y optimización final.
           </p>
-
+        
           <p>
             Trabajo con herramientas como Elementor, ACF y desarrollo personalizado con PHP, HTML, CSS y JavaScript.
           </p>
-
+        
           <p>
             Me enfoco en crear sitios web funcionales, rápidos y fáciles de gestionar para el cliente.
           </p>
