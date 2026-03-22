@@ -100,7 +100,7 @@ export default function Projects() {
 
         {/* TÍTULO */}
         <div className="mb-12">
-          <h2 className="text-5xl md:text-5xl font-bold">Proyectos</h2>
+          <h2 className="text-4xl md:text-5xl font-bold">Proyectos</h2>
           <div className="w-14 h-[3px] bg-orange-500 mt-4"></div>
         </div>
 
