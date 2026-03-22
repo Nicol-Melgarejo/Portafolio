@@ -25,7 +25,7 @@ export default function About() {
 
         {/* TÍTULO */}
         <div className="mb-10">
-          <h2 className="text-5xl font-bold animate-fadeUp">Sobre mí</h2>
+          <h2 className="text-4xl font-bold animate-fadeUp">Sobre mí</h2>
           <div className="w-14 h-[3px] bg-orange-500 mt-4"></div>
         </div>
 
