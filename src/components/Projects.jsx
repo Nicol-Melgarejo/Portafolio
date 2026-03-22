@@ -92,10 +92,9 @@ export default function Projects() {
   }
 
   return (
-    <section
-      id="projects"
-      className="min-h-[100dvh] md:h-[100dvh] md:snap-start flex items-center text-white relative py-20 md:py-28"
-    >
+      <section
+  id="projects"
+  className="min-h-[100dvh] md:h-[100dvh] md:snap-startflex flex-col justify-centertext-white relative pt-32 md:pt-40 pb-20">
       <div className="max-w-[1240px] mx-auto px-6 w-full">
 
         {/* TÍTULO */}
