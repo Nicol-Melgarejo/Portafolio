@@ -6,7 +6,7 @@ export default function ContactCTA() {
 
       {/* FONDO DECORATIVO */}
       <div className="absolute inset-0 -z-10">
-        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[80vw] max-w-[600px] aspect-square bg-pink-500/20 blur-[120px] rounded-full pointer-events-none"></div>
+        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[600px] h-[600px] bg-pink-500/20 rounded-full"></div>
       </div>
 
       <div className="max-w-[900px] mx-auto px-6 text-center">
