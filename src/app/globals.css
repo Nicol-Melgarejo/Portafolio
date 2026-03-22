@@ -164,8 +164,9 @@ body {
   animation: marqueeReverse 20s linear infinite;
 }
 
-html {
-  scroll-behavior: smooth;
+html, body {
+  overflow-x: hidden;
+   scroll-behavior: smooth;
 }
 
 section {
